@@ -17,7 +17,7 @@
     gap: 20px;
 }
 
-.nav div {
+.nav .nav-btn {
     color: #fff;
     cursor: pointer;
 }
